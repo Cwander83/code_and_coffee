@@ -1,4 +1,5 @@
 console.log('hello');
+const google_api = 'AIzaSyBbVjGnr88XsJZg2MwMGPOvGxpXDrW2PN4';
 
 
 var map;
